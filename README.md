@@ -1,4 +1,4 @@
-# LaTeX Resume Class
+# [LaTeX Resume Class](http://cprussin.net/resume)
 
 ## Description
 
