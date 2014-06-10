@@ -80,8 +80,7 @@
 % #2 - Description
 % #3 - Date
 \newenvironment{project}[3]{
-	\textbf{#1} \hfill #3\\
-	\textit{#2}
+	\textbf{#1} \textit{#2} \hfill #3
 	\begin{itemize}
 }{
 	\end{itemize}
