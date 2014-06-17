@@ -1,4 +1,4 @@
-# [LaTeX Resume Class](http://cprussin.net/resume)
+# [LaTeX Resume Class](https://connor.prussin.net/resume)
 
 ## Description
 
@@ -6,8 +6,8 @@ This is a LaTeX document class intended for use when writing resumes.  It is
 loosely based off parts of [the Resume class developed by
 RPI](http://www.rpi.edu/dept/arc/training/latex/resumes/), but has been
 rewritten from ground up.  To keep the class file minimal, only one style is
-supported---please see [my resume](http://cprussin.net/resume.pdf) for an
-example of the produced format.  The source of my resume is included in this
+supported---please see [my resume](https://connor.prussin.net/resume.pdf) for
+an example of the produced format.  The source of my resume is included in this
 repository as an example.
 
 ## Usage
