@@ -3,7 +3,7 @@
 \ProvidesClass{resume}[2014/01/01 v1 Resume class]
 \PassOptionsToClass{11pt,12pt}{article}
 \LoadClassWithOptions{article}
-\usepackage[margin=.4in]{geometry}
+\usepackage[margin=.3in]{geometry}
 \usepackage{bold-extra}
 
 % Set up left margin
@@ -13,7 +13,7 @@
 \advance\textwidth-\sectionwidth
 
 % Tighten page up
-\linespread{.88}
+\linespread{.86}
 \parindent=0pt
 \parskip=0pt
 \topsep=0pt
