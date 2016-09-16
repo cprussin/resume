@@ -13,7 +13,7 @@
 \advance\textwidth-\sectionwidth
 
 % Tighten page up
-\linespread{.86}
+\linespread{.91}
 \parindent=0pt
 \parskip=0pt
 \topsep=0pt
