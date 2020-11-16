@@ -4,7 +4,6 @@
 \PassOptionsToClass{11pt,12pt}{article}
 \LoadClassWithOptions{article}
 \usepackage[margin=.3in]{geometry}
-\usepackage{bold-extra}
 
 % Set up left margin
 \newdimen\sectionwidth{}
